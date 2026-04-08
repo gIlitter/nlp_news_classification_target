@@ -1,10 +1,3 @@
-finance
-realty
-stocks
-education
-science
-society
-politics
-sports
-game
-entertainment
+version https://git-lfs.github.com/spec/v1
+oid sha256:82f78ccd461d447b5aa2a9529fd0cb23ece91834e0001292a7924bc9e1ccf884
+size 91
